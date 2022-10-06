@@ -1,3 +1,6 @@
 This is a sample text file, text is ok. file updatingss
 adding new update
 Changes in the same line 
+adding new updated
+New code changes.
+erhijwaeiojrwew
